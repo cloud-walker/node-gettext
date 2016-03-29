@@ -1,0 +1,9 @@
+msgid "hello, world!"
+msgstr "ciao, mondo!"
+
+msgctxt "navbar"
+msgid "sign-in"
+msgstr "login"
+
+msgid "hello, world!"
+msgstr "ciao, mondo?"
